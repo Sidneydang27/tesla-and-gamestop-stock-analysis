@@ -28,7 +28,7 @@ This mini-project shows how I extract public market data (share prices via `yfin
 - **GameStop:** Revenue remains flat to declining with clear retail seasonality. The dramatic 2021 price spike is disconnected from fundamentals, highlighting how market sentiment and speculative trading can dominate in the short term.
 
 ## 🗂 Structure
-tesla-and-gamestop-stock-analysis/
+```tesla-and-gamestop-stock-analysis/
 ├── figures/
 │ ├── tesla_stock_revenue.png
 │ └── gamestop_stock_revenue.png
@@ -38,7 +38,7 @@ tesla-and-gamestop-stock-analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 ##🔎 Notes & Limitations
 
 Revenue figures are scraped from a static educational HTML file used in the IBM lab, not from official SEC filings. For production or investment purposes, always source data from authoritative, up-to-date filings or licensed APIs.
