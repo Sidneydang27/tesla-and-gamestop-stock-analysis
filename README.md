@@ -40,7 +40,7 @@ tesla-and-gamestop-stock-analysis/
 ├── LICENSE
 └── .gitignore
 ```
-##🔎 Notes & Limitations
+## 🔎 Notes & Limitations
 
 Revenue figures are scraped from a static educational HTML file used in the IBM lab, not from official SEC filings. For production or investment purposes, always source data from authoritative, up-to-date filings or licensed APIs.
 
@@ -48,6 +48,6 @@ The analysis is limited to data up to mid-2021 to match the scope of the origina
 
 Price data is retrieved from Yahoo Finance via yfinance. While suitable for research and educational use, the data may differ slightly from official market feeds.
 
-##📜 License
+## 📜 License
 
 MIT — see LICENSE.
